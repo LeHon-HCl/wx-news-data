@@ -1,0 +1,2 @@
+# httpsRequestForWeChatMiniAppDevelopment
+https Request For WeChat_MiniApp Development
